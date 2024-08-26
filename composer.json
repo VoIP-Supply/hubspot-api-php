@@ -1,5 +1,5 @@
 {
-    "name": "hubspot/api-client",
+    "name": "hubspot/custom-api-client",
     "version": "11.3.0",
     "description": "Hubspot API client",
     "keywords": [
