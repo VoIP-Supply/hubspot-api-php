@@ -16,5 +16,11 @@
             "name": "HubSpot",
             "homepage": "https://hubspot.com/"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "HubSpot\\Client\\" : "codegen/",
+            "HubSpot\\" : "lib/"
+        }
+    }
 }
